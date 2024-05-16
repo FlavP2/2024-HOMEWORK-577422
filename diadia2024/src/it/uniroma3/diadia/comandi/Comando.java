@@ -1,6 +1,5 @@
 package it.uniroma3.diadia.comandi;
 
-
 import it.uniroma3.diadia.diadia.IO;
 import it.uniroma3.diadia.diadia.Partita;
 
